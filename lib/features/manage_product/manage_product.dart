@@ -1,0 +1,9 @@
+export './blocs/product_bloc.dart';
+export './blocs/product_event.dart';
+export './blocs/product_state.dart';
+export './models/product_model.dart';
+export './repositories/product_repo.dart';
+export './screens/product_layout.dart';
+export './screens/product_screen.dart';
+export './services/product_service.dart';
+export './widgets/product_image_picker.dart';
